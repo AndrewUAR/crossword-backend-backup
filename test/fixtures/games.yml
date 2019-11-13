@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  puzzle: one
+  guesses: MyString
+  opened: false
+
+two:
+  user: two
+  puzzle: two
+  guesses: MyString
+  opened: false
